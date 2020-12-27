@@ -1,0 +1,26 @@
+.formDiv{
+    
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* flex-grow: 1; */
+}
+.Edit{
+    width:60vh;
+    height:60vh;
+   margin-top: 10px;
+   text-align: center;
+   
+    
+}
+.edithere{
+    align-self: center;
+    align-content: center;
+}
+.container{
+    background-color:#f2f2f0;
+    
+}
+
+

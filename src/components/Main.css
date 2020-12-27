@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:#cccaca;
+    margin:0;
+    /* width: 100%; */
+    border-radius: 10px;
+    align-items: center;
+    
+}
+h2 {
+    color:white;
+    margin-left: 10px;
+}
+.li-reserve{
+    color:white;
+    list-style: none;
+    margin-top: 8px;
+    
+}
+.components{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

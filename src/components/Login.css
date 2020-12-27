@@ -1,0 +1,26 @@
+.card-style{
+    height:50vh;
+    width:60vh;
+}
+
+/* .form-login{
+    position: relative;
+} */
+
+.bg-image{
+    background-image: url('../images/bg1.jpg');
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.form-login{
+    align-self: center;
+    
+}
+.form{
+    opacity:0.9
+}
+.card-style{
+    height: 60vh;
+}
